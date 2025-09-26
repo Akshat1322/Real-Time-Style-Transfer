@@ -1,4 +1,4 @@
-echo "# Real-Time Style Transfer Webcam App
+# Real-Time Style Transfer Webcam App
 
 This project applies real-time style transfer to your webcam using PyTorch and OpenCV. Users can switch between multiple artistic styles and save snapshots.
 
